@@ -46,7 +46,9 @@ public class Transation {
 	}
 	
 	public void setWitdrawAccount(double withdrawAccount) {
-		this.depositAccount -= withdrawAccount + 5;
+		if (withdrawAccount >0) {
+			this.depositAccount -= withdrawAccount + 5;
+		}
 	}
 	
 	public String toString() {
