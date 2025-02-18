@@ -26,7 +26,7 @@ Este curso cobre diversos aspectos do Java, incluindo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/IgorCamps/Curso_Java_Backend.git
    ```
 2. Navegue pelos diretórios para encontrar materiais de estudo, exercícios e desafios.
 3. Pratique os exercícios e desafios para consolidar o aprendizado.
