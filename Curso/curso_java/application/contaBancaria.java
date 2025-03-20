@@ -20,7 +20,7 @@ public class contaBancaria {
 		String name = sc.nextLine();
 		
 		System.out.print("is there na initial deposit (y/n)? ");
-		char deposit = sc.nextLine().charAt(0);	
+		char deposit = sc.nextLine().charAt(0);
 		
 		
 		
